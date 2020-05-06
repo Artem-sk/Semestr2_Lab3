@@ -1,0 +1,43 @@
+form
+{
+    background: goldenrod;
+    padding: 3pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    clear: both;
+    margin: 10pt;
+
+    
+    text-align: center;
+    border: 3pt solid black;
+    width: fit-content;
+
+}
+
+div 
+{
+    display: flex;
+}
+
+table
+{
+    background: sandybrown;
+    border: 5pt solid black;
+    border-collapse: collapse;
+    margin-top: 8pt;
+}
+tr,td,th 
+{
+border: 3pt solid gray;
+padding: 5pt;
+}
+td
+{
+    color: white;
+}
+.empty-result 
+{
+    border: 3pt solid black;
+    background: sandybrown;
+    width: fit-content;
+}
